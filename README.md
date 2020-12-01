@@ -1,9 +1,14 @@
-# README Generator
+
+# README Creator
 
 ## Description
-test
+![License](https://img.shields.io/badge/license-GNU_AGPLv3-blue.svg)
+
+This is an application that uses Node js to create README markdown for user to fill out.
+<br>Check out the demo [here](https://youtu.be/lJddYSWmA2g).
 
 ## Table of content
+ 
 
 * [Title](#title)
 * [Description](#description)
@@ -16,19 +21,24 @@ test
 * [Q&A](#QandA)
 
 ## Installation
-test
+Install Node js, npm, and inquirer before running.
 
 ## Usage
-test
+This is a quick and easy tool for user to generate README file.
 
 ## License
-GNU AGPLv3
+GNU_AGPLv3
 
 ## Contributors
-me
+This application is created by me with the help from the inital material by Trilogy.
+
+For more information about Markdown License badges, check out this open source project by lukas-h [here](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba).
 
 ## Tests
-none
+N/A
 
 ## FAQ 
-noe
+None
+Check out my [GitHub profile](https://github.com/uyennguyen30696) for more projects and information. 
+
+If you have additional questions, please email me at uyennguyen8508@yahoo.com.
