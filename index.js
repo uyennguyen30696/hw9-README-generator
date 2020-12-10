@@ -32,7 +32,7 @@ const promptUser = () => {
         message: 'What is your project used for?'
     },
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         choices: [
             'GNU_AGPLv3',
