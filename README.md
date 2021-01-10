@@ -1,5 +1,4 @@
-
-# README Creator
+# 09 Node.js Homework: Professional README Generator
 
 ## Description
 ![License](https://img.shields.io/badge/license-GNU_AGPLv3-blue.svg)
@@ -9,7 +8,6 @@ This is an application that uses Node js to create README markdown for user to f
 
 ## Table of content
  
-
 * [Title](#title)
 * [Description](#description)
 * [Contents](#contents)
