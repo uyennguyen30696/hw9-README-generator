@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-GNU_AGPLv3-blue.svg)
 
 This is an application that uses Node js to create README markdown for user to fill out.
-<br>Check out the demo [here](https://youtu.be/lJddYSWmA2g).
+<br>Check out the demo [here](https://www.youtube.com/watch?v=xzizqHKwLpo).
 
 ## Table of content
  
